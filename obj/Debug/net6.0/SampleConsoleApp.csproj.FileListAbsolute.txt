@@ -1,0 +1,15 @@
+\\DELL\Users\HI\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.exe
+\\DELL\Users\HI\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.deps.json
+\\DELL\Users\HI\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.runtimeconfig.json
+\\DELL\Users\HI\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.dll
+\\DELL\Users\HI\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.pdb
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.AssemblyReference.cache
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfoInputs.cache
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfo.cs
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.CoreCompileInputs.cache
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.dll
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\refint\SampleConsoleApp.dll
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.pdb
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.genruntimeconfig.cache
+\\DELL\Users\HI\SampleConsoleApp\obj\Debug\net6.0\ref\SampleConsoleApp.dll
